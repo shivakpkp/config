@@ -1,0 +1,5 @@
+organization.name=Shivakp
+eureka.instance.prefer-ip-address=true
+eureka.instance.lease-renewal-interval-in-seconds=10
+eureka.instance.lease-expiration-duration-in-seconds=20
+service.welcome.message= Hello From Microservice 1
